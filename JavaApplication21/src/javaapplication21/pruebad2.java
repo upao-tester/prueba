@@ -10,4 +10,5 @@ package javaapplication21;
  */
 public class pruebad2 {
     
+    int prueba = 0;
 }
